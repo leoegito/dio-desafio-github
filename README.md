@@ -1,2 +1,3 @@
-# dio-desafio-github
-Desafio /Projeto sobre git/github da DIO
+# Digital Innovation One - Eduzz
+## Desafio sobre git/github da DIO
+Repositório criado para o Desafio de Projeto.
